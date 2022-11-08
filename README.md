@@ -8,6 +8,7 @@
 
 ##   
 <details align="left">
-    <summary> <b>Detailed Statistics (Past 30 Days) ...</b></summary>
+    <summary> <b>Detailed Statistics...</b></summary>
+      <p>> Data tracked since November 2021</p>
       <img src="https://wakatime.com/share/@NotAddison/1d285dd1-1a6b-4b7f-a309-a698b469ff9c.svg" height="500">
 </details>
