@@ -12,3 +12,5 @@
       <p>> Data tracked since November 2021</p>
       <img src="https://wakatime.com/share/@NotAddison/1d285dd1-1a6b-4b7f-a309-a698b469ff9c.svg" height="500">
 </details>
+
+<a href="https://wakatime.com/@34d1de78-2bb7-440f-af5f-bf6a3a24305c"><img src="https://wakatime.com/badge/user/34d1de78-2bb7-440f-af5f-bf6a3a24305c.svg" alt="Total time coded since Nov 20 2021" /></a>
