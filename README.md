@@ -7,7 +7,9 @@
 </div>
 
 ##   
-Hackathon Team / Projects: [Team Fish](https://github.com/Fish-Hacks)
+Hackathon Team / Projects: [Team Fish](https://github.com/Fish-Hacks) <br/>
+<b>Update: Currently serving NS (AFK)</b>
+
 <details align="left">
     <summary> <b>Detailed Statistics...</b></summary>
       <p>> Data tracked since November 2021</p>
